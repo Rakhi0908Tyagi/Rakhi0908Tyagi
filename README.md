@@ -1,8 +1,6 @@
-## hii there
-I am Rakhi Tyagi,
+Hi, I'm Rakhi 👋  
+B.Tech CSE student  
 
-B.Tech CSE First Year | VIT Bhopal University
-
-Madhya Pradesh, India 
-
-I hope to learn AI, ML and real world projects
+- 🌱 Currently learning: Machine Learning & Programming  
+- 💻 Projects: Loan Prediction, To-Do Manager  
+- 🎨 Interested in creativity and hands-on work  
